@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Yahoo! JAPAN Tech Blog</string>
+		<key>url</key>
+		<string>http://techblog.yahoo.co.jp/atom.xml</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>LINE Engineers&apos; Blog</string>
+		<key>url</key>
+		<string>http://developers.linecorp.com/blog/ja/?feed=rss2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Google Japan Developer Relations Blog</string>
+		<key>url</key>
+		<string>http://feeds.feedburner.com/GoogleJapanDeveloperRelationsBlog?format=xml</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Developers.IO（クラスメソッド）</string>
+		<key>url</key>
+		<string>http://dev.classmethod.jp/feed</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>はてな開発者ブログ</string>
+		<key>url</key>
+		<string>http://developer.hatenastaff.com/rss</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>クックパッド開発者ブログ</string>
+		<key>url</key>
+		<string>http://techlife.cookpad.com/rss</string>
+	</dict>
+</array>
+</plist>
