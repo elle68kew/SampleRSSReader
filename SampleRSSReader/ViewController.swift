@@ -15,6 +15,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        // test
         self.title = "RSS一覧"
         
         let filePath = NSBundle.mainBundle().pathForResource("feedlist.plist", ofType: nil)
